@@ -5,6 +5,7 @@ An Instagram Clone using Laravel
 ![alt text](https://github.com/KhalidLam/instagramClone/blob/master/screenshot.png)
 
 ## Getting started
+### add two sentence by eslam Gaber
 1. Clone project `git clone https://github.com/KhalidLam/instagramClone.gitL`
 2. Go to the folder `cd instagramClone`
 3. Install composer `composer install`
